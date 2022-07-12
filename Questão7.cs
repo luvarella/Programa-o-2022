@@ -9,7 +9,7 @@ public class Program{
     int z = 0;
     while(y < x){
       while(z < x){
-        Console.Write(t[z] + " ");
+        Console.WriteLine(t[z] + " ");
         z++;
       }
       Console.WriteLine();
